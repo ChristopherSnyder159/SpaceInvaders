@@ -1,5 +1,6 @@
 # SpaceInvaders
 This program uses Java to code Space Invaders
+
 ![image](https://github.com/user-attachments/assets/af119484-aae3-45eb-b009-0c4f0fb04822)
 
 ## Installation 
